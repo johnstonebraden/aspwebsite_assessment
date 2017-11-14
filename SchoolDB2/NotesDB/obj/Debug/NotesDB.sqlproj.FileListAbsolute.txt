@@ -1,0 +1,9 @@
+E:\NotesAssessment\NotesDB\NotesDB\bin\Debug\NotesDB.dacpac
+E:\NotesAssessment\NotesDB\NotesDB\bin\Debug\NotesDB.dll
+E:\NotesAssessment\NotesDB\NotesDB\bin\Debug\NotesDB.pdb
+E:\NotesAssessment\NotesDB\NotesDB\obj\Debug\Model.xml
+E:\NotesAssessment\NotesDB\NotesDB\obj\Debug\refactor.xml
+E:\NotesAssessment\NotesDB\NotesDB\obj\Debug\postdeploy.sql
+E:\NotesAssessment\NotesDB\NotesDB\obj\Debug\predeploy.sql
+E:\NotesAssessment\NotesDB\NotesDB\obj\Debug\NotesDB.dll
+E:\NotesAssessment\NotesDB\NotesDB\obj\Debug\NotesDB.pdb

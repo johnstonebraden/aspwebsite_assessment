@@ -1,0 +1,9 @@
+E:\ASPWEBAssessment\SchoolDB\NotesDB\bin\Debug\SchoolDB.dacpac
+E:\ASPWEBAssessment\SchoolDB\NotesDB\bin\Debug\NotesDB.dll
+E:\ASPWEBAssessment\SchoolDB\NotesDB\bin\Debug\NotesDB.pdb
+E:\ASPWEBAssessment\SchoolDB\NotesDB\obj\Debug\Model.xml
+E:\ASPWEBAssessment\SchoolDB\NotesDB\obj\Debug\refactor.xml
+E:\ASPWEBAssessment\SchoolDB\NotesDB\obj\Debug\postdeploy.sql
+E:\ASPWEBAssessment\SchoolDB\NotesDB\obj\Debug\predeploy.sql
+E:\ASPWEBAssessment\SchoolDB\NotesDB\obj\Debug\NotesDB.dll
+E:\ASPWEBAssessment\SchoolDB\NotesDB\obj\Debug\NotesDB.pdb

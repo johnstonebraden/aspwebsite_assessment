@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<head>
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<h2 style="font-size:8vw">Student enrollment data.</h2>
+<h3 style="font-size:3vw">A simple website.</h3>
+<table class="table">
+    <tr>
+        <th>
+            
+            <button  style="font-size:1vw" onclick="location.href='@Url.Action("Index", "Students")';return false;">Students</button>
+            <label style="font-size:1vw" class="LabelCSSTop">Edit student data</label>
+        </tr>
+    <tr>
+        <th>
+            
+            <button style="font-size:1vw" onclick="location.href='@Url.Action("Index", "Enrollments")';return false;">Grades</button>
+            <label style="font-size:1vw" class="LabelCSSTop">Set a grade, or assign a course to a student</label>
+        </th>
+    <tr>
+        <th>
+            
+            <button style="font-size:1vw" onclick="location.href='@Url.Action("Index", "Courses")';return false;">Courses</button>
+            <label style="font-size:1vw" class="LabelCSSTop">Edit course data</label>
+        </th>
+    </tr>
+    </table>
